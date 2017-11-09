@@ -23,9 +23,9 @@ class Donate extends React.Component {
       <div className={style.mainText}>
         <p>This project has just started and many good ideas still needs implementation</p>
         <br/>
-        <p>Any help with license, server cost or other developer maintenaince cost such as coffee in-take during long programming nights would be very appreciated</p>
+        <p>Any help with license, server cost or other maintenaince cost, like coffee during long programming nights would be very appreciated</p>
         <br/>
-        <p>So if you have an extra dollar to spare and the software has brough value to your project, feel free to help the project move forward</p>
+        <p>So if you have an extra dollar to spare and the software has given value to your project, feel free to help the project move forward</p>
       </div>
       <div className={style.donation}>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
