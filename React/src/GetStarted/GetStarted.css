@@ -1,0 +1,33 @@
+:local(.mainText) {
+    font-size: 20;
+    font-family: Raleway;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50;
+}
+
+.started h1 {
+    font-size: 150%;
+    margin-top: 50;
+    margin-bottom: 20;
+}
+
+.started h3 {
+    font-size: 90%;
+    margin-top: 5;
+    margin-bottom: 5;
+}
+
+.started img{
+    width: 1024
+}
+
+.started ol{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.started li{
+    margin-left: 50px;
+}

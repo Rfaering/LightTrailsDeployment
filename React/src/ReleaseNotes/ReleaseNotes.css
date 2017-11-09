@@ -1,0 +1,8 @@
+:local(.mainText) {
+    font-size: 20;
+    font-family: Raleway;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50;
+}

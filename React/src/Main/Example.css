@@ -1,0 +1,29 @@
+:local(.container) {
+    justify-content: center;
+    display: flex;
+    margin-top: 50;
+}
+
+:local(.item) {
+    width: 512;
+    margin-right: 10;
+    margin-bottom: 10;
+}
+
+:local(.item):hover {
+    cursor: pointer;
+}
+
+/*.exampleVideo {
+    
+}*/
+
+/*.exampleVideo:hover {
+    animation: fadeinout 0.5s ease-in 1 forwards;
+}
+
+@keyframes fadeinout {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}*/
