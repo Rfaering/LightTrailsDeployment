@@ -13,6 +13,7 @@ class Header extends React.Component {
   }
 
   render() {
+    // { this.link( 'Donate', 'donate' ) }
     return (
       <header className={style.header}>
         <div className={style.innerHeader}>        
@@ -20,7 +21,6 @@ class Header extends React.Component {
             <Link to="/"><div style={{ marginLeft: '16px', color: 'white', fontSize: '20px', lineHeight: '1', fontFamily: 'Raleway', textTransform: 'uppercase', textAlign: 'center' }}>Light Trails</div></Link>
             <nav className={style.nav}>
             { this.link( 'Release Notes', 'releasenotes' ) }
-            { this.link( 'Donate', 'donate' ) }
             </nav>        
         </div>
       </header>
